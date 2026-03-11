@@ -29,7 +29,7 @@ Gomoku is a classic strategy board game where the goal is to place five stones i
 
 ## How to Run
 
-1. Install [Processing](https://processing.org/) with Python Mode enabled
+1. Install [Processing3] https://github.com/processing/processing/releases with Python Mode enabled
 1. Clone this repository
 1. Open the main `.pyde` file in Processing
 1. Press **Run**
